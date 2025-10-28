@@ -1,4 +1,4 @@
-# 李一航没有搞完后我搞完了
+# Liyihang250
 Awesome-AI-in-Finance 是 GitHub 上的精选资源库（由 Hoyoung Lee 维护），聚焦 AI 与金融交叉领域，整合高质量学术成果与创新思路。
 
 MyPaper_DL_ML_Fin 是 GitHub 上的公开代码库，提供适配金融时间序列数据的深度神经网络框架，含数据预处理、神经网络模型及交易策略模块，库内包含 data、utils 文件夹及 BTC、ETH、S&P500 相关示例 notebook，对应研究有特色数据预处理流程与含卷积层、LSTM 的二分类模型。
